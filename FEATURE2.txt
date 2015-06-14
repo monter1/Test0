@@ -1,3 +1,6 @@
 While True
   Print 'Console output'
 Done
+
+Let a = b
+Print a
